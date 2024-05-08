@@ -1,0 +1,5 @@
+.container {
+    display: flex; /* Usa layout flexível para organizar componentes */
+    gap: 16px; /* Define espaçamento entre componentes */
+  }
+  
